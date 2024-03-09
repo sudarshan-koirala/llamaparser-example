@@ -21,7 +21,7 @@ parser = LlamaParse(
 file_extractor = {".pdf": parser}
 documents = SimpleDirectoryReader(input_files=['data/gpt4all.pdf'], file_extractor=file_extractor).load_data()
 
-#documents
+documents
 
 #len(documents)
 
@@ -58,8 +58,7 @@ query_engine = index.as_query_engine()
 # query the engine
 from IPython.display import Markdown, display  # noqa: E402
 
-query = "who are the authors of the paper?"
-#query = "when did OpenAI released GPT4 ?"
-#query = "Where was the collected loaded on?"
+# query the engine
+query = "what is the BoolQ value of GPT4All-J 6B v1.0* model ?"
 response = query_engine.query(query)
 display(Markdown(f"<b>{response}</b>"))
