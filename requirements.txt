@@ -1,0 +1,7 @@
+llama-index 
+llama-parse 
+python-dotenv
+llama-index-embeddings-ollama
+llama_index.llms.ollama
+llama-index-llms-openai
+llama-index-embeddings-openai
