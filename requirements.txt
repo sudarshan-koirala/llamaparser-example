@@ -1,7 +1,11 @@
-llama-index 
 llama-parse 
-python-dotenv
+llama-index-embeddings-fastembed
+llama-index
+fastembed
+llama-index-vector-stores-qdrant
+qdrant_client
 llama-index-embeddings-ollama
-llama_index.llms.ollama
-llama-index-llms-openai
-llama-index-embeddings-openai
+llama_index-llms-ollama
+python-dotenv
+llama-index-llms-groq
+chainlit
