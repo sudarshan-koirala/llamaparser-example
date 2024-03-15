@@ -1,5 +1,4 @@
 # wget 'https://raw.githubusercontent.com/run-llama/llama_index/main/docs/examples/data/10q/uber_10q_march_2022.pdf' -O './data/uber_10q_march_2022.pdf'
-# wget 'https://github.com/sudarshan-koirala/llama2-chat-with-documents/blob/main/data/state_of_the_union.txt' -O './data/state_of_union.txt'
 # wget "https://meetings.wmo.int/Cg-19/PublishingImages/SitePages/FINAC-43/7%20-%20EC-77-Doc%205%20Financial%20Statements%20for%202022%20(FINAC).pptx" -O './data/presentation.pptx'
 import os
 import nest_asyncio  # noqa: E402
