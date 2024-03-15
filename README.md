@@ -5,6 +5,11 @@ Simple example to showcase how to use llamaparser to parse PDF files
 ### [Llamaparse LlamaIndex](https://youtu.be/wRMnHbiz5ck?si=iQZV7N6-trcuBm8M)
 ### [Llamaparse Qdrant Gorq]()
 
+### Links shown in video
+- [LlamaCloud](https://cloud.llamaindex.ai/)
+- [Qdrant Cloud](https://cloud.qdrant.io/)
+- [Groq Cloud](https://console.groq.com/)
+
 ### create virtualenv
 ```
 python3 -m venv .venv && source .venv/bin/activate
