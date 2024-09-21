@@ -3,7 +3,7 @@ Simple example to showcase how to use llamaparser to parse PDF files
 
 ## Videos covering these topics
 ### [Llamaparse LlamaIndex](https://youtu.be/wRMnHbiz5ck?si=iQZV7N6-trcuBm8M)
-### [Llamaparse Qdrant Gorq](https://youtu.be/w7Ap6gZFXl0?si=05AUGmRp1quTdeZl)
+### [Llamaparse Qdrant Groq](https://youtu.be/w7Ap6gZFXl0?si=05AUGmRp1quTdeZl)
 
 ### Links shown in video
 - [LlamaCloud](https://cloud.llamaindex.ai/)
