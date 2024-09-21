@@ -4,6 +4,7 @@ Simple example to showcase how to use llamaparser to parse PDF files
 ## Videos covering these topics
 ### [Llamaparse LlamaIndex](https://youtu.be/wRMnHbiz5ck?si=iQZV7N6-trcuBm8M)
 ### [Llamaparse Qdrant Groq](https://youtu.be/w7Ap6gZFXl0?si=05AUGmRp1quTdeZl)
+### [RAG with LlamaParse from LlamaIndex and LangChain](https://youtu.be/f9hvrqVvZl0?si=ezGdVXwzmcjZEtKj)
 
 ### Links shown in video
 - [LlamaCloud](https://cloud.llamaindex.ai/)
